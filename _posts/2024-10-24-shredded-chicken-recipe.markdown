@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Incredible Shredded Chicken Recipe for a High-Protein Diet"
-date: 2024-10-25 01:09:50 -0600
+date: 2024-10-24 22:00:00 -0600
 categories: recipe
 ---
 
